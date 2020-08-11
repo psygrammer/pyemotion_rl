@@ -1,0 +1,3 @@
+[submodule "ref/Deep-Reinforcement-Learning-Hands-On-Second-Edition"]
+	path = ref/Deep-Reinforcement-Learning-Hands-On-Second-Edition
+	url = https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition.git
